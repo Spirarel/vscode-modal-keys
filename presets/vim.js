@@ -337,7 +337,7 @@ right because that would move to next line.
         ],
         /**
 Note that visual mode works a little differently than in vim. We don't
-seek to mimc visual mode particularly. Basically, we just toggle a switch that allows the
+seek to mimic visual mode particularly. Basically, we just toggle a switch that allows the
 motion commands to extend and create selections.
         */
         "v": "modaledit.toggleSelection",
